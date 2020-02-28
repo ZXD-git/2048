@@ -1,0 +1,17 @@
+C:\Users\Administrator\Desktop\2048\2048\bin\Release\2048.exe.config
+C:\Users\Administrator\Desktop\2048\2048\bin\Release\2048.exe
+C:\Users\Administrator\Desktop\2048\2048\bin\Release\2048.pdb
+C:\Users\Administrator\Desktop\2048\2048\obj\Release\2048.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\2048\2048\obj\Release\Control_Grid.g.cs
+C:\Users\Administrator\Desktop\2048\2048\obj\Release\MainWindow.g.cs
+C:\Users\Administrator\Desktop\2048\2048\obj\Release\App.g.cs
+C:\Users\Administrator\Desktop\2048\2048\obj\Release\2048_MarkupCompile.cache
+C:\Users\Administrator\Desktop\2048\2048\obj\Release\2048_MarkupCompile.lref
+C:\Users\Administrator\Desktop\2048\2048\obj\Release\Control_Grid.baml
+C:\Users\Administrator\Desktop\2048\2048\obj\Release\MainWindow.baml
+C:\Users\Administrator\Desktop\2048\2048\obj\Release\2048.g.resources
+C:\Users\Administrator\Desktop\2048\2048\obj\Release\_2048.Properties.Resources.resources
+C:\Users\Administrator\Desktop\2048\2048\obj\Release\2048.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\2048\2048\obj\Release\2048.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\2048\2048\obj\Release\2048.exe
+C:\Users\Administrator\Desktop\2048\2048\obj\Release\2048.pdb
